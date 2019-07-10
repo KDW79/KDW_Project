@@ -1,0 +1,10 @@
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\bin\Debug\IpSetting_v2.exe.config
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\bin\Debug\IpSetting_v2.exe
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\bin\Debug\IpSetting_v2.pdb
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.csprojAssemblyReference.cache
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.FrmMain.resources
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.Properties.Resources.resources
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.csproj.GenerateResource.cache
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.csproj.CoreCompileInputs.cache
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.exe
+D:\KDW_Project\1_C#\IpSetting_v2\IpSetting_v2\obj\Debug\IpSetting_v2.pdb
